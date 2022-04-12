@@ -1,0 +1,35 @@
+body {
+  background:  rgb(0, 204, 255);
+  font-family: sans-serif;
+  }
+ 
+  h1{
+      color: rgb(5, 5, 5) ;
+      text-align: center;
+  }
+ 
+  input {
+      width: 300px;
+      height: 30px;
+      border-radius: 10px;
+      border: 2px solid black;
+  }
+ 
+  button{
+      margin-top: 15px;
+      width: 300px;
+      height: 37px;
+      border-radius: 50px;
+      background : #ffc400;
+      color: rgb(0, 0, 0);
+      border: none;
+  }
+  div{
+      text-align: center;
+      margin-top: 18px;
+  }
+ 
+  div1{
+      text-align: center;
+  }
+ 
